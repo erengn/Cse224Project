@@ -1,0 +1,9 @@
+{
+  "DESIGN_NAME": "twos_complement",
+  "VERILOG_FILES": "dir::src/twos_complement.v",
+  "CLOCK_PORT": "",
+  "CLOCK_PERIOD": "",
+  "FP_CORE_UTIL": 50,
+  "FP_IO_HMETAL": 5,
+  "FP_IO_VMETAL": 5
+}
