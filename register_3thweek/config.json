@@ -1,0 +1,7 @@
+{
+    "DESIGN_NAME": "register_file",
+    "VERILOG_FILES": [ "designs/register_file/src/register_file.v" ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10,
+    "TOP_MODULE": "register_file"
+}
