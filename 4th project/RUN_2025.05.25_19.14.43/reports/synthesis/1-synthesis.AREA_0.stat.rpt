@@ -1,0 +1,29 @@
+
+63. Printing statistics.
+
+=== register_file ===
+
+   Number of wires:                305
+   Number of wire bits:            332
+   Number of public wires:          72
+   Number of public wire bits:      99
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                313
+     sky130_fd_sc_hd__a221o_2       16
+     sky130_fd_sc_hd__and4_2         1
+     sky130_fd_sc_hd__and4b_2        3
+     sky130_fd_sc_hd__and4bb_2       3
+     sky130_fd_sc_hd__buf_1         79
+     sky130_fd_sc_hd__dfxtp_2       64
+     sky130_fd_sc_hd__inv_2          2
+     sky130_fd_sc_hd__mux2_2        80
+     sky130_fd_sc_hd__mux4_2        16
+     sky130_fd_sc_hd__o21a_2        16
+     sky130_fd_sc_hd__o21ba_2       16
+     sky130_fd_sc_hd__or2b_2        16
+     sky130_fd_sc_hd__or4b_2         1
+
+   Chip area for module '\register_file': 3638.489600
+
