@@ -1,0 +1,1 @@
+Floorplan report: all metrics within constraints.
