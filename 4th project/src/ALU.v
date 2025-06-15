@@ -6,10 +6,10 @@ module ALU (
 
     always_comb begin
         case (opcode)
-            2'b00: result = A + B;       // ADD
-            2'b01: result = A - B;       // SUB
-            2'b10: result = A << B;      // SHIFTL
-            2'b11: result = A >> B;      // SHIFTR (logical)
+            2'b00: result = A + B;       
+            2'b01: result = A - B;       
+            2'b10: result = A << B;      
+            2'b11: result = A >> B;      
             default: result = 32'd0;
         endcase
     end
